@@ -1,1 +1,1 @@
-# onePiece-StoryReader-1.0.1-
+# onePiece-StoryReader"1.0.1"
